@@ -1,1 +1,1 @@
-授权成功
+document.writeln("授权成功");
